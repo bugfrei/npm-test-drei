@@ -1,0 +1,19 @@
+{
+  "name": "bugfrei-test-drei",
+  "version": "1.0.0",
+  "description": "Dritter Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugfrei/npm-test-drei.git"
+  },
+  "author": "Bugfrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugfrei/npm-test-drei/issues"
+  },
+  "homepage": "https://github.com/bugfrei/npm-test-drei#readme"
+}
